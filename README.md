@@ -20,7 +20,7 @@ Going forward, I might choose to visualize the Twitter data in something other t
 
 #### CSV links
 [Seattle](/assets/twsearch-result-1(seattle).csv)
-[NYC](/assets/twsearch-result-3(nyc).csv)
+[NYC](/assets/twsearch-result-3 (nyc).csv)
 [San Francisco](/assets/twsearch-result-2(sf).csv)
 
 
